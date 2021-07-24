@@ -1,0 +1,9 @@
+
+spring:
+  application:
+    name: CarInfo
+  datasource:
+    driver-class-name: oracle.jdbc.driver.OracleDriver
+    url: jdbc:oracle:thin:@//xxx.xxx.xxx.xxx:xxx/xxx.xxx.xxx
+    username: xxxxxxxx
+    password: xxxxxxxx
